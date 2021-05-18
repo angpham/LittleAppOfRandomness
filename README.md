@@ -7,3 +7,5 @@ SP 21 CPSC236-03
 Project 01 - Data Logger
 
 Resources: We did it all together in class!
+
+5/18/2021: Added Build.zip with .app and necessary files
